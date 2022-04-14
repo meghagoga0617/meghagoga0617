@@ -1,5 +1,5 @@
 
-Hi I am Mmegha Goga Mahale
+Hi I am Megha Goga Mahale
 
 I'm a self-taught passionate Full Stack developer and VOIP expert.
 
